@@ -1,0 +1,5 @@
+HEALTH RECORDS MODULE
+
+1. Add animal health records.
+2. Update medical information.
+3. View health history.
