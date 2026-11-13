@@ -1,0 +1,5 @@
+LIVESTOCK MANAGEMENT MODULE
+
+1. Add livestock details.
+2. Update livestock information.
+3. View livestock records.
