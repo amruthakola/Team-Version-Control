@@ -1,0 +1,5 @@
+VACCINATION MANAGEMENT MODULE
+
+1. Add vaccination details.
+2. Schedule vaccinations.
+3. View vaccination history.
